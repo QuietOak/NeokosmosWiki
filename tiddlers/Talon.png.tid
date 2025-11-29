@@ -1,0 +1,18 @@
+created: 20251128002615246
+creator: Oak
+modified: 20251128193913831
+modifier: Oak
+tags: Characters Talon media Male Picts [[Boar Tribe]]
+title: Talon.png
+type: text/vnd.tiddlywiki
+
+<$vars imgpath="files/images/Talon.png">
+<$image source=<<imgpath>>
+  style="
+    display:block;
+    margin:0 auto 1.5rem auto;
+    width:260px;
+    border-radius:12px;
+    box-shadow:0 0 25px rgba(255,215,160,0.25);
+  " />
+</$vars>

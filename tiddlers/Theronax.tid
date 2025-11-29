@@ -1,0 +1,39 @@
+created: 20251127222300670
+creator: Oak
+modified: 20251127230245964
+modifier: Oak
+tags: Characters Theronax Griffen
+title: Theronax
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Theronax
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A griffin once sworn to Atlantean skies, now the reluctant mount of a mortal king.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Theronax, once called the Hunter of Kings, is a towering griffin with obsidian feathers, a lion’s body, and eyes like black flame. His wings span wider than a warhorse is long, and his presence on the wind inspires awe and fear in equal measure.</p>
+    <p>Born wild, he was uplifted by Atlantean mage-knights through ancient rites and rose to serve as a Skyborne Knight, bearing warriors into battle with pride and fierce loyalty.</p>
+    <p>He survived the fall of Atlantis, cursed with memory while most of his kin slipped back into simple beasthood. Now he haunts wind-scoured peaks, still draped in a weathered saddle marked with a lion’s head—the symbol of a broken order.</p>
+    <p>Theronax currently serves King Frederick with deep reluctance, drawn by the king’s promise of Atlantis reborn and by the faint, haunting echo of the world he lost. His allegiance is fragile, and his patience with mortal folly is thin.</p>
+  </div>
+
+</div>

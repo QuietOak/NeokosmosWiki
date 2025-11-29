@@ -1,0 +1,39 @@
+created: 20251127222028070
+creator: Oak
+modified: 20251127230156569
+modifier: Oak
+tags: Characters Syra [[Thunderhoof Tribe]] Picts
+title: Syra
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Syra
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A quiet twin of the Horse Tribe, bonded to horses and battlefields alike.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Syra is Lyra’s twin and the second warrior of the Horse Tribe’s chariot trio. Like her sister, she is petite and deadly, wielding short spears and a sling with practiced ease from the speeding chariot.</p>
+    <p>Quieter and more reserved than Lyra, Syra speaks little, but her eyes miss nothing. She seems to share an almost mystical connection with the horses, reading their moods and shifts of movement as if they were extensions of her own body.</p>
+    <p>While Jarek steers and Lyra hurls taunts and spears, Syra guides the flow of the fight with subtle touches on reins and rail, ensuring the chariot is always where it needs to be for maximum impact.</p>
+    <p>Her calm presence balances Lyra’s fire, and together the twins become a single lethal weapon on wheels.</p>
+  </div>
+
+</div>

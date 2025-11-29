@@ -1,0 +1,39 @@
+created: 20251127221812923
+creator: Oak
+modified: 20251127225759184
+modifier: Oak
+tags: Characters Thalyn Picts [[Shadowfang Tribe]]
+title: Thalyn
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Thalyn
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A silent hunter of the Shadowfang Tribe, whose poisons end battles before they begin.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Thalyn is a scout of the Shadowfang Tribe, a whisper in the wind and a shadow in the undergrowth. Her dark eyes scan the world with a predator’s focus, and her lithe body moves with fluid precision through the densest forests.</p>
+    <p>She specializes in the art of capture rather than killing. Her favored weapons are poison-tipped darts that strike from nowhere, sending foes into unconsciousness before they even realize they have been marked.</p>
+    <p>A master of stealth and subtlety, Thalyn leaves almost no trace of her passage. To those she hunts, her presence is only a chill on the back of the neck and then nothing at all.</p>
+    <p>Her loyalty to the Shadowfang runs deep, but she feels no particular attachment to her victims. They are tasks to be completed, not people to be pitied.</p>
+  </div>
+
+</div>

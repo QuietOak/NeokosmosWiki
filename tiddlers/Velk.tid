@@ -1,0 +1,39 @@
+created: 20251127221755853
+creator: Oak
+modified: 20251127225739290
+modifier: Oak
+tags: Characters Velk Picts [[Shadowfang Tribe]]
+title: Velk
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Velk
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A serpent-taming medicine man of the Shadowfang Tribe, walking the line between wisdom and darkness.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Velk is the medicine man of the Shadowfang Tribe, a figure of fear and reverence in equal measure. Cloaked in shadows and bone charms, he dwells deep within a sacred cave where the tribe’s oldest relics lie in silent watch.</p>
+    <p>His voice is low and slow, like wind through dead leaves, and even chieftains bow their heads when he speaks. His body is marked with ink and scars, each line and wound a token of visions survived and spirits appeased.</p>
+    <p>Velk communes with unseen powers through smoke, blood, and whispered chants. It is said he can command serpents with a glance and curse enemies with a breath.</p>
+    <p>Under his guidance, the Shadowfang walk ever closer to forbidden mysteries, their rituals growing more secretive and strange. Velk does not simply serve the tribe; he guides it, as the hidden cave shapes the roots of the forest above.</p>
+  </div>
+
+</div>

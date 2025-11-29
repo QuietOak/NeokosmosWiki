@@ -1,0 +1,16 @@
+created: 20251128022153117
+creator: Oak
+modified: 20251128173324406
+modifier: Oak
+tags: Ceolwynn Characters media Female [[Alnhama Republic]]
+title: ceolwynn.png
+type: text/vnd.tiddlywiki
+
+<$image source="files/images/ceolwynn.png"
+  style="
+    display:block;
+    margin:0 auto 1.5rem auto;
+    width:260px;
+    border-radius:12px;
+    box-shadow:0 0 25px rgba(255,215,160,0.25);
+  " />

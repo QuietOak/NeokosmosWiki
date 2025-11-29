@@ -1,0 +1,14 @@
+caption: Histories
+created: 20251125045612580
+creator: Oak
+modified: 20251125051559440
+modifier: Oak
+tags: $:/tags/SideBar
+title: $:/Neokosmos/HistoriesIndexTab
+type: text/vnd.tiddlywiki
+
+!! Histories
+
+<$list filter='[tag[Histories]sort[title]]'>
+* <$link to=<<currentTiddler>>><$view field="title"/></$link>
+</$list>

@@ -1,0 +1,16 @@
+created: 20251129004802677
+creator: Oak
+modified: 20251129004852303
+modifier: Oak
+tags: Characters media Male Damakreon Atlantis
+title: Damakreon.png
+type: text/vnd.tiddlywiki
+
+<$image source="files/images/Damakreon.png"
+  style="
+    display:block;
+    margin:0 auto 1.5rem auto;
+    width:260px;
+    border-radius:12px;
+    box-shadow:0 0 25px rgba(255,215,160,0.25);
+  " />

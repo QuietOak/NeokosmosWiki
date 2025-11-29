@@ -1,0 +1,39 @@
+created: 20251127221333308
+creator: Oak
+modified: 20251127225116423
+modifier: Oak
+tags: Characters Naimus [[Reustran Empire]] [[Cult of Sol Eternel]]
+title: Naimus
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Naimus
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A blind seer whose unwavering faith guides his visions of Sol Eternel’s will.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Naimus is an elderly seer devoted to the worship of Sol Eternel. Once an ordinary man, he lost his sight in advancing age but soon afterward received what many call a blessing and others a strange cure: the gift of prophecy.</p>
+    <p>He is fervent and fiercely determined, his faith unshakeable even as age bends his body.</p>
+    <p>Now he lives in seclusion within the Chapel of Sol Eternel, spending his days in prayer and contemplation. He tends to the sacred blade and awaits the arrival of Sol’s chosen champion, trusting that his visions will reveal the right moment and the right soul.</p>
+    <p>Though his eyes no longer see the physical world, Naimus perceives patterns of destiny and divine intention with unsettling clarity.</p>
+  </div>
+
+</div>

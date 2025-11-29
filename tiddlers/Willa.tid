@@ -1,0 +1,38 @@
+created: 20251127220944134
+creator: Oak
+modified: 20251127225050916
+modifier: Oak
+tags: Characters Willa [[Reustran Empire]]
+title: Willa
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Willa
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A lively tavern maid whose kindness and gossip bind patrons together.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Willa works as a tavern maid, moving effortlessly among crowded tables with trays of food, drink, and stories. She is friendly, energetic, and wonderfully gregarious, with a gift for making strangers feel like old companions.</p>
+    <p>She is very pretty, with red hair, freckles across her fair skin, and bright green eyes that sparkle with mirth.</p>
+    <p>Willa wears a short green dress with a laced bodice and a simple medieval-style bonnet on her head. She is hardworking and popular among regulars, partly because she can talk without pause for hours, weaving gossip, jokes, and half-true tales into a constant stream of chatter.</p>
+  </div>
+
+</div>

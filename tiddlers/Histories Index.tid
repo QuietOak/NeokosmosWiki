@@ -1,0 +1,46 @@
+created: 20251125044123061
+creator: Oak
+modified: 20251125044219452
+modifier: Oak
+title: Histories Index
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2rem;
+  border-radius:12px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.7;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+
+  <h1 style="color:#f8e8c7; font-size:2rem; margin-bottom:1rem; text-align:center;">
+    Histories Index
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:1.5rem;">
+    All entries tagged with <code>Histories</code> are listed here.
+  </p>
+
+  <div style="
+    background:#131316;
+    padding:1.25rem 1.5rem;
+    border-radius:10px;
+    box-shadow:0 0 15px rgba(255,215,160,0.08);
+  ">
+
+    <!-- TiddlyWiki automatic list preserved exactly -->
+    <$list filter='[tag[Histories]sort[title]]'>
+      <div style="margin:0.35rem 0; font-size:1.15rem;">
+        • <$link to=<<currentTiddler>> style="color:#f8e8c7; text-decoration:none;">
+            <$view field="title"/>
+          </$link>
+      </div>
+    </$list>
+
+  </div>
+
+</div>

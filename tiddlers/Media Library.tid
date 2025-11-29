@@ -1,0 +1,187 @@
+created: 20251128030326476
+creator: Oak
+modified: 20251128191017478
+modifier: Oak
+tags: 
+title: Media Library
+type: text/vnd.tiddlywiki
+
+<!-- Text filter controls -->
+<div style="
+  display:flex;
+  align-items:center;
+  gap:0.5rem;
+  margin-bottom:1rem;
+  font-size:0.95rem;
+  color:#e6dcbf;
+">
+  <span style="opacity:0.85;">Filter by tag (partial match):</span>
+
+  <$edit-text
+    tiddler="$:/state/Neokosmos/MediaLibrary/TagFilterText"
+    field="text"
+    tag="input"
+    type="search"
+    style="
+      background:#0d0d0f;
+      color:#f8e8c7;
+      border-radius:999px;
+      border:1px solid rgba(255,215,160,0.45);
+      padding:0.25rem 0.6rem;
+      font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+      min-width:11rem;
+    "
+    placeholder="e.g. names, types"
+/>
+</div>
+
+<!-- CASE 1: no filter text -> show ALL media tiddlers
+     (either tagged 'media' OR old image/* types) -->
+<$list filter="[{$:/state/Neokosmos/MediaLibrary/TagFilterText}is[blank]]">
+
+  <div style="
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+    gap:1rem;
+  ">
+
+    <$list
+      filter="
+        [tag[media]]
+        [type[image/png]]
+        [type[image/jpeg]]
+        [type[image/webp]]
+        [type[image/gif]]
+        +[sort[title]]
+      "
+      variable="img"
+    >
+
+      <div style="
+        background:#1a1a1f;
+        border-radius:10px;
+        padding:0.75rem;
+        box-shadow:0 0 12px rgba(255,215,160,0.10);
+        text-align:center;
+      ">
+        <$link to=<<img>> style="text-decoration:none; color:inherit;">
+
+          <$transclude tiddler=<<img>>/>
+
+          <div style="
+            font-size:0.9rem;
+            color:#f8e8c7;
+            margin-top:0.15rem;
+            word-wrap:break-word;
+          ">
+            <<img>>
+          </div>
+
+        </$link>
+      </div>
+
+    </$list>
+
+  </div>
+
+</$list>
+
+<!-- CASE 2: filter text is 'male' (case-insensitive) -->
+<$list filter="[{$:/state/Neokosmos/MediaLibrary/TagFilterText}lowercase[]match[male]]">
+
+  <div style="
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+    gap:1rem;
+  ">
+
+    <$list
+      filter="
+        [tag[media]search:tags:some[male]!search:tags:some[female]]
+        [type[image/png]search:tags:some[male]!search:tags:some[female]]
+        [type[image/jpeg]search:tags:some[male]!search:tags:some[female]]
+        [type[image/webp]search:tags:some[male]!search:tags:some[female]]
+        [type[image/gif]search:tags:some[male]!search:tags:some[female]]
+        +[sort[title]]
+      "
+      variable="img"
+    >
+
+      <div style="
+        background:#1a1a1f;
+        border-radius:10px;
+        padding:0.75rem;
+        box-shadow:0 0 12px rgba(255,215,160,0.10);
+        text-align:center;
+      ">
+        <$link to=<<img>> style="text-decoration:none; color:inherit;">
+
+          <$transclude tiddler=<<img>>/>
+
+          <div style="
+            font-size:0.9rem;
+            color:#f8e8c7;
+            margin-top:0.15rem;
+            word-wrap:break-word;
+          ">
+            <<img>>
+          </div>
+
+        </$link>
+      </div>
+
+    </$list>
+
+  </div>
+
+</$list>
+
+<!-- CASE 3: any other non-blank filter text -> partial tag search (original behaviour) -->
+<$list filter="[{$:/state/Neokosmos/MediaLibrary/TagFilterText}!is[blank]lowercase[]!match[male]]">
+
+  <div style="
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+    gap:1rem;
+  ">
+
+    <$list
+      filter="
+        [tag[media]search:tags:some{$:/state/Neokosmos/MediaLibrary/TagFilterText}]
+        [type[image/png]search:tags:some{$:/state/Neokosmos/MediaLibrary/TagFilterText}]
+        [type[image/jpeg]search:tags:some{$:/state/Neokosmos/MediaLibrary/TagFilterText}]
+        [type[image/webp]search:tags:some{$:/state/Neokosmos/MediaLibrary/TagFilterText}]
+        [type[image/gif]search:tags:some{$:/state/Neokosmos/MediaLibrary/TagFilterText}]
+        +[sort[title]]
+      "
+      variable="img"
+    >
+
+      <div style="
+        background:#1a1a1f;
+        border-radius:10px;
+        padding:0.75rem;
+        box-shadow:0 0 12px rgba(255,215,160,0.10);
+        text-align:center;
+      ">
+        <$link to=<<img>> style="text-decoration:none; color:inherit;">
+
+          <$transclude tiddler=<<img>>/>
+
+          <div style="
+            font-size:0.9rem;
+            color:#f8e8c7;
+            margin-top:0.15rem;
+            word-wrap:break-word;
+          ">
+            <<img>>
+          </div>
+
+        </$link>
+      </div>
+
+    </$list>
+
+  </div>
+
+</$list>

@@ -1,0 +1,22 @@
+/* Make the entire wiki chrome and story area dark, overriding gradients/images */
+
+html,
+body.tc-body,
+.tc-page-container,
+.tc-dropzone,
+.tc-story-river,
+.tc-story-river .tc-tiddler-frame,
+.tc-tiddler-frame,
+.tc-tiddler-view-frame,
+.tc-tiddler-frame-sticky,
+.tc-tiddler-preview,
+.tc-tiddler-body {
+  background: #0d0d0f !important;  /* background, not just background-color */
+}
+
+/* Kill Snow White's extra overlay gradients if present */
+.tc-story-river:before,
+.tc-story-river:after {
+  background: none !important;
+  box-shadow: none !important;
+}

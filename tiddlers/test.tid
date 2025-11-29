@@ -1,0 +1,53 @@
+created: 20251128043026040
+creator: Oak
+modified: 20251128043038601
+modifier: Oak
+tags: 
+title: test
+type: text/vnd.tiddlywiki
+
+<div style="
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(150px,1fr));
+  gap:1rem;
+">
+
+  <$list filter="[type[image/png]] [type[image/jpeg]] [type[image/webp]] [type[image/gif]] +[sort[title]]">
+
+    <div style="
+      background:#1a1a1f;
+      border-radius:10px;
+      padding:0.75rem;
+      box-shadow:0 0 12px rgba(255,215,160,0.10);
+      text-align:center;
+    ">
+
+      <!-- Clickable thumbnail -->
+      <$link to=<<currentTiddler>> style="text-decoration:none; color:inherit;">
+
+        <$image source=<<currentTiddler>> style="
+          display:block;
+          margin:0 auto 0.55rem auto;
+          max-width:100%;
+          max-height:130px;
+          border-radius:8px;
+          box-shadow:0 0 18px rgba(255,215,160,0.25);
+          object-fit:cover;
+        "/>
+
+        <div style="
+          font-size:0.9rem;
+          color:#f8e8c7;
+          margin-top:0.15rem;
+          word-wrap:break-word;
+        ">
+          <<currentTiddler>>
+        </div>
+
+      </$link>
+
+    </div>
+
+  </$list>
+
+</div>

@@ -1,0 +1,39 @@
+created: 20251127221436935
+creator: Oak
+modified: 20251127225210148
+modifier: Oak
+tags: Characters Ceolmund [[Alnhama Republic]]
+title: Ceolmund
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Ceolmund
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A steady, diplomatic trader who navigates both seas and tempers with care.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Ceolmund is a reliable and resourceful trader, known in many ports for his calm manner and unwavering honesty. He approaches commerce as both craft and art, carefully balancing risk and reward while maintaining his reputation for fairness.</p>
+    <p>He is middle-aged and of medium height, with a stocky build and a quiet strength in his stance. His salt-and-pepper hair and neatly trimmed beard frame warm hazel eyes that put others at ease.</p>
+    <p>Ceolmund dresses in practical, well-made clothing suited to long journeys, often wearing a dark overcoat and sturdy boots. He carries a ledger and a carefully maintained set of trading tools, always ready to weigh coin, read contracts, or inspect goods.</p>
+    <p>Patient, grounded, and perceptive, he serves as a natural diplomat among crews and merchants. When tempers flare, his measured words often restore peace.</p>
+  </div>
+
+</div>

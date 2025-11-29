@@ -1,0 +1,40 @@
+created: 20251127222202737
+creator: Oak
+modified: 20251127222214125
+modifier: Oak
+tags: Characters Elves Eirene
+title: Eirene
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Eirene
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    An elven warden whose mind and magic are slowly being unraveled by the Red Tower.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Eirene is an elven warden and the daughter of Kallia. Like her mother, she appears no older than a mortal woman in her twenties, though she has lived for more than a century.</p>
+    <p>She has long, dark hair, soft elven features, and a quiet, distant gaze shaped by months of captivity. Her once-bright eyes now flicker with uncertainty, as if she no longer trusts what she sees.</p>
+    <p>Eirene speaks with a calm, almost melodic voice, but her words sometimes falter as though she is unsure what is real. Before her capture, she was gifted in illusion magic and served as a guardian of the Veil that protected the elven kingdom.</p>
+    <p>She was taken during a moment of weakness by soldiers from Fresnia and brought to the Red Tower. There her sense of self has begun to blur, as the tower slowly twists her mind and warps her magic in ways she cannot yet understand.</p>
+    <p>In her dreams she is hunted by the presence of an ancient, terrible man. She knows with growing certainty that if he is reborn, the world as she knows it will end. She is currently held on the fourth floor of the tower.</p>
+  </div>
+
+</div>

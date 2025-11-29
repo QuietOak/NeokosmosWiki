@@ -1,0 +1,39 @@
+created: 20251127221641546
+creator: Oak
+modified: 20251129005338228
+modifier: Oak
+tags: Characters Alina [[Cult of Sol Allevia]] [[Sister Alina]]
+title: Sister Alina
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Sister Alina
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A gentle healer of Sol Allevia whose kindness endures despite long years of service.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Sister Alina is a healer of the Order of Sol Allevia, known for her grace, warmth, and quiet strength. She has spent decades tending to the sick and wounded, offering comfort as readily as medicine.</p>
+    <p>Though no longer young, Alina remains beautiful in a soft, dignified way. Her once rich chestnut hair is now touched with silver and usually tied back in a simple, practical knot. Her soothing green eyes are always full of empathy and patient understanding.</p>
+    <p>Alina has dedicated her life to the care of others, using both mundane remedies and the minor, gentle magics permitted by her order. Long years in service have not dimmed her compassion; she remains as devoted to Sol Allevia’s ideals as when she first took her vows.</p>
+    <p>Those who spend time in her presence often find their fears easing, reassured by her calm voice and steady hands.</p>
+  </div>
+
+</div>

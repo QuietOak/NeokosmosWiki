@@ -1,0 +1,39 @@
+created: 20251127220806422
+creator: Oak
+modified: 20251127222826837
+modifier: Oak
+tags: Characters Maya Elves
+title: Maya
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Maya
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    An elven illusionist of the Hrívë Court, guardian of the border mists.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Maya is a minor member of the royal elven household, sworn to the Hrívë Court. She is trained in illusion magic, weaving mists and glamours to waylay and gently confuse those who would harm the elves. Her duty is to guard the borders of the hidden elven kingdom, steering intruders away without violence.</p>
+    <p>She is very short and delicately built, with pale skin scattered in freckles, long red hair, and bright green eyes. Her face shows no mark of age, and there is a youthful softness to her features.</p>
+    <p>Shy yet deeply kind, Maya would never knowingly do harm to anyone. She is formal and reserved with strangers, preferring precise and thoughtful speech that can sometimes come across as overly academic. Bookish and erudite, she lacks real-world experience and often struggles to understand the emotional subtleties of others. Her curiosity about the wider world is boundless, and she is endlessly fascinated by humans and whatever lies beyond the elven realm.</p>
+    <p>Like all elves, she is pacifistic and finds anger and hatred to be alien concepts. She is timid in the face of direct confrontation and depends on others to defend her if danger turns violent.</p>
+  </div>
+
+</div>

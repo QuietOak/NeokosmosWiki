@@ -1,0 +1,108 @@
+created: 20251128163254558
+modified: 20251128194455316
+tags: tool
+title: $:/tools/Neokosmos/ConvertImage
+type: text/vnd.tiddlywiki
+
+!! Convert Image Tiddler → External File Wrapper
+
+<$vars target={{$:/state/Neokosmos/ConvertImage/Target}}>
+
+<div style="
+  background:#131316; padding:1rem; border-radius:10px;
+  box-shadow:0 0 12px rgba(255,215,160,0.15);
+">
+
+  <div style="margin-bottom:0.5rem;">
+    <b>Select image tiddler to convert:</b>
+  </div>
+
+  <!-- Dropdown list of tiddlers that are type image/* -->
+  <$select tiddler="$:/state/Neokosmos/ConvertImage/Target" field="text">
+    <$list filter="
+      [type[image/png]]
+      [type[image/jpeg]]
+      [type[image/webp]]
+      [type[image/gif]]
+      +[sort[title]]
+    ">
+      <option value=<<currentTiddler>>><<currentTiddler>></option>
+    </$list>
+  </$select>
+
+  <hr/>
+
+  <div style="margin-bottom:0.5rem;">
+    <b>Selected tiddler:</b> <<target>>
+  </div>
+
+  <div style="margin-bottom:0.5rem;">
+    <b>File path that will be used at render time:</b><br/>
+    files/images/&lt;title-of-tiddler&gt;
+  </div>
+
+  <div style="margin-bottom:0.5rem; opacity:0.85;">
+    The wrapper stored in the tiddler will be:
+  </div>
+
+  <pre style="
+    background:#0d0d0f; color:#f8e8c7; padding:0.5rem; border-radius:6px;
+    white-space:pre-wrap;
+  ">
+&lt;$vars imgpath="files/images/&lt;&lt;currentTiddler&gt;&gt;"&gt;
+  &lt;$image source=&lt;&lt;imgpath&gt;&gt;
+    style="
+      display:block;
+      margin:0 auto 1.5rem auto;
+      width:260px;
+      border-radius:12px;
+      box-shadow:0 0 25px rgba(255,215,160,0.25);
+    " /&gt;
+&lt;/$vars&gt;
+  </pre>
+
+  <hr/>
+
+  <$button style="
+    padding:0.5rem 1rem; border-radius:6px; background:#0d0d0f;
+    border:1px solid rgba(255,215,160,0.45); color:#f8e8c7;
+  ">
+    Convert Selected Tiddler
+
+    <!-- Change type from image/* to wiki text -->
+    <$action-setfield
+      $tiddler=<<target>>
+      type="text/vnd.tiddlywiki"
+    />
+
+    <!-- Store wrapper that computes files/images/<title> at render time -->
+    <$action-setfield
+      $tiddler=<<target>>
+      text="""<$vars imgpath="files/images/<<currentTiddler>>">
+<$image source=<<imgpath>>
+  style="
+    display:block;
+    margin:0 auto 1.5rem auto;
+    width:260px;
+    border-radius:12px;
+    box-shadow:0 0 25px rgba(255,215,160,0.25);
+  " />
+</$vars>"""
+    />
+
+    <!-- Add 'media' tag so it appears in the Media Library -->
+    <$action-listops
+      $tiddler=<<target>>
+      $tags="media"
+    />
+  </$button>
+
+</div>
+
+</$vars>
+
+<p style="font-size:0.85rem; opacity:0.7;">
+Use <code>node extract-media.js</code> to copy image binaries from
+<code>tiddlers/</code> into <code>files/images/</code>. This tool then turns each
+<code>type:image/*</code> tiddler into a lightweight wrapper that references the external file.
+</p>

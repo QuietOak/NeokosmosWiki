@@ -1,0 +1,39 @@
+created: 20251127220726028
+creator: Oak
+modified: 20251127222453859
+modifier: Oak
+tags: Characters Renauld Knights [[Reustran Empire]] [[Cult of Sol Eternel]]
+title: Renauld
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Renauld
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    Paladin and witch hunter of the Ruestrian Empire.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Renauld is a sworn paladin of Sol Eternel and a dedicated witch hunter trained by the Ruestrian Empire. He is skilled in both martial combat and the detection of sorcery, able to sense and nullify magic around him with uncanny precision. Within a small radius, no spell can manifest unless he allows it, making him a living anathema to arcane power. He carries a sword and shield into battle and believes deeply that magic must be halted before it destroys both its wielders and the innocent.</p>
+    <p>He is tall, lean, and powerfully built, with short golden-blond hair, a well-trimmed beard, and piercing blue eyes that rarely miss a detail.</p>
+    <p>Renauld is calm, collected, and reasonably intelligent, preferring to consider people and problems carefully before acting. He believes wholeheartedly in his mission, yet he is not blind to the suffering it causes. Each time he slays a magic-user, he feels the loss personally and empathizes with those he is forced to destroy. Secretly, he longs for a better way—some path that would spare both the world and its gifted from ruin.</p>
+    <p>His tone with most people is authoritative and commanding, shaped by years of military discipline. With trusted companions, however, his manner relaxes; he reveals a dry sense of humor and a surprisingly charming warmth.</p>
+  </div>
+
+</div>

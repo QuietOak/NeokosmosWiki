@@ -1,0 +1,14 @@
+caption: Characters
+created: 20251127234551356
+creator: Oak
+modified: 20251127234647068
+modifier: Oak
+tags: $:/tags/SideBar
+title: $:/Neokosmos/CharacterIndexTab
+type: text/vnd.tiddlywiki
+
+!! Characters
+
+<$list filter='[tag[Characters]sort[title]]'>
+* <$link to=<<currentTiddler>>><$view field="title"/></$link>
+</$list>

@@ -1,0 +1,39 @@
+created: 20251127222043533
+creator: Oak
+modified: 20251127222120707
+modifier: Oak
+tags: Characters Fresnia [[King Frederick]]
+title: King Frederick
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    King Frederick
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A ruthless Fresnian king obsessed with restoring Atlantean glory.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>King Frederick of Fresnia has ruled for over two decades, his reign defined by a relentless hunt for elves and lost Atlantean relics. In his mind, he is destined to rebuild the ancient empire and restore a golden age, no matter the cost in blood or sanity.</p>
+    <p>He is tall and broad-shouldered, with a bald head like the shadow of a crown and a thick beard streaked with gray. His eyes are coldly intelligent and largely uncaring, weighing people more as resources than as lives.</p>
+    <p>Frederick speaks in a measured, commanding tone, every word shaped by authority and a deep certainty in his own destiny. Contempt often underlies his speech, especially when he dismisses those who question his designs.</p>
+    <p>Having discovered the living Red Tower within his realm, he now seeks to wield the Atlantean sword in a forbidden rite that may grant him godlike power at a terrible, unknown price. At present, he conducts these rites on the fourth floor of the tower, heedless of the doom he may unleash.</p>
+  </div>
+
+</div>

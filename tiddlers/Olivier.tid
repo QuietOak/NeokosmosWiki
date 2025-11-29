@@ -1,0 +1,39 @@
+created: 20251127221232022
+creator: Oak
+modified: 20251127221243306
+modifier: Oak
+tags: Characters Olivier Knights [[Reustran Empire]]
+title: Olivier
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Olivier
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    The greatest jousting champion of his age, coldly focused on perfection.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Olivier is widely regarded as the finest jousting champion in living memory, a knight whose skill in the lists borders on the legendary. He cares little for fame or spectacle, devoting himself instead to the art of the lance with almost monastic focus.</p>
+    <p>He is tall and lean, with corded strength and a presence that seems to draw in the air around him. His sky-blue eyes hold an icy, unyielding stare. Though very strong for his size, he rarely wastes movement or words.</p>
+    <p>Olivier is taciturn, intense, and spartan in his habits. He speaks quietly when he finally chooses to speak at all.</p>
+    <p>His life revolves around jousting to the exclusion of nearly everything else. He intends to win the tournament solely as a personal test of his skills and does not particularly care about the prize or the politics swirling around it.</p>
+  </div>
+
+</div>

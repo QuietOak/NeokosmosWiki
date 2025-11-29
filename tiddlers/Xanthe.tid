@@ -1,0 +1,39 @@
+created: 20251127220924231
+creator: Oak
+modified: 20251127224532362
+modifier: Oak
+tags: Characters Xanthe Atlantis
+title: Xanthe
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Xanthe
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    An Atlantean woman awakened from a thousand-year sleep into a world that has forgotten her people.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Xanthe is a survivor of the Cataclysm that ended the civilization of Atlantis. She was discovered sleeping peacefully within a strange Atlantean device, preserved in stasis for more than a thousand years. When the mechanism finally released her, she awoke into an era in which everything she loved had long since vanished beneath the sea.</p>
+    <p>She is very tall and fair of face and skin. Her long hair is a soft golden color, and her eyes glow with a strange golden hue. She is easily the tallest woman most have ever seen, her proportions elegant but subtly alien to modern eyes. Among her own people she was a somewhat wealthy but otherwise ordinary woman, yet now she walks through a world of descendants and ruins.</p>
+    <p>Xanthe misses her family and culture deeply and is fearful and mistrustful of those around her. She has led a pampered life and is unaccustomed to hardship, travel, or combat, leaving her poorly suited to the rough demands of adventuring.</p>
+    <p>She retains the ability to use basic forms of Atlantean technology, and when she moves among Atlantean ruins she recognizes many devices and symbols. At times she can even coax long-dormant mechanisms back into motion, bringing lost wonders briefly to life again.</p>
+  </div>
+
+</div>

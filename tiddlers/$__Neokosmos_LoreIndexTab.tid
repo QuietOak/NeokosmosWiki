@@ -1,0 +1,14 @@
+caption: Lore
+created: 20251125034026930
+creator: Oak
+modified: 20251125034030288
+modifier: Oak
+tags: $:/tags/SideBar
+title: $:/Neokosmos/LoreIndexTab
+type: text/vnd.tiddlywiki
+
+!! Lore
+
+<$list filter='[tag[Lore]sort[title]]'>
+* <$link to=<<currentTiddler>>><$view field="title"/></$link>
+</$list>

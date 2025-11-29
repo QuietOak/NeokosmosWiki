@@ -1,0 +1,66 @@
+created: 20251127221843870
+creator: Oak
+modified: 20251129000045364
+modifier: Oak
+title: Characters Index
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#131316;
+  padding:1.25rem 1.5rem;
+  border-radius:10px;
+  box-shadow:0 0 15px rgba(255,215,160,0.08);
+">
+
+  <div style="
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    gap:1rem;
+  ">
+
+    <$list
+      filter="[tag[Characters]!suffix[.png]!suffix[.jpg]!suffix[.jpeg]!suffix[.gif]!suffix[.webp]!suffix[.svg]sort[title]]"
+      variable="char"
+    >
+
+      <div style="
+        background:#1a1a1f;
+        border-radius:10px;
+        padding:0.75rem;
+        text-align:center;
+        box-shadow:0 0 12px rgba(255,215,160,0.10);
+      ">
+
+        <!-- Optional portrait: first media tiddler tagged with this character -->
+        <$list filter="[tag[media]tag<char>first[]]">
+          <div style="
+            display:block;
+            margin:0 auto 0.5rem auto;
+            max-width:100%;
+            max-height:130px;
+            overflow:hidden;
+            border-radius:8px;
+            box-shadow:0 0 18px rgba(255,215,160,0.25);
+          ">
+            <$transclude tiddler=<<currentTiddler>>/>
+          </div>
+        </$list>
+
+        <!-- Character name -->
+        <$link to=<<char>> style="text-decoration:none; color:#f8e8c7;">
+          <div style="
+            font-size:1.05rem;
+            margin-top:0.3rem;
+            word-wrap:break-word;
+          ">
+            <<char>>
+          </div>
+        </$link>
+
+      </div>
+
+    </$list>
+
+  </div>
+
+</div>

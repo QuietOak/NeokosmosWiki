@@ -1,0 +1,39 @@
+created: 20251127221308248
+creator: Oak
+modified: 20251127221320305
+modifier: Oak
+tags: Characters Knights Ganelon [[Reustran Empire]]
+title: Ganelon
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Ganelon
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    A mighty knight whose laughter hides a yearning to be someone’s true champion.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Ganelon is famed as the strongest knight in the land, a warrior whose sheer physical might and exuberant presence dominate any field he strides onto. He delights in contests, feasts, and friendly company, living loudly and unapologetically.</p>
+    <p>He is broad-shouldered and large, with a barrel chest and powerful limbs. His head is bald, and his beard is prematurely graying, framing a face marked by sad brown eyes that hint at deeper emotions. His voice is deep, resonant, and more thoughtful than his jovial exterior might suggest.</p>
+    <p>Ganelon is jolly, confident, and gregarious, the kind of man who quickly becomes the center of a room. Yet beneath his cheer lies a quiet desire: he wishes to be someone’s personal hero, not just a spectacle for crowds. He has a soft spot for those in need and is easily moved to defend the vulnerable.</p>
+    <p>He competes in the tournament for the joy of battle and the thrill of the cheering crowd, savoring the chance to test his strength and bask in brief moments of adoration.</p>
+  </div>
+
+</div>

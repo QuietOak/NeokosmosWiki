@@ -1,0 +1,14 @@
+caption: Peoples of Neokosmos
+created: 20251125045712142
+creator: Oak
+modified: 20251125051622687
+modifier: Oak
+tags: $:/tags/SideBar
+title: $:/Neokosmos/PeoplesofNeokosmosIndexTab
+type: text/vnd.tiddlywiki
+
+!! People of Neokosmos
+
+<$list filter='[tag[Peoples of Neokosmos]sort[title]]'>
+* <$link to=<<currentTiddler>>><$view field="title"/></$link>
+</$list>

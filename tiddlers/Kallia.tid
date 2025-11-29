@@ -1,0 +1,40 @@
+created: 20251127222135961
+creator: Oak
+modified: 20251127222146636
+modifier: Oak
+tags: Characters Elves Kallia
+title: Kallia
+type: text/vnd.tiddlywiki
+
+<div style="
+  background:#0d0d0f;
+  color:#e6dcbf;
+  padding:2.5rem;
+  border-radius:14px;
+  font-family:'Garamond','Palatino Linotype','Book Antiqua',serif;
+  line-height:1.75;
+  max-width:850px;
+  margin:auto;
+  box-shadow:0 0 25px rgba(255,215,160,0.15);
+">
+  <h1 style="color:#f8e8c7; font-size:2.2rem; margin-bottom:1.2rem; text-align:center;">
+    Kallia
+  </h1>
+
+  <p style="text-align:center; opacity:0.85; margin-bottom:2rem; font-style:italic;">
+    An elven adventurer and mother, hardened by the road and driven by love.
+  </p>
+  <div style="
+    background:#131316;
+    padding:1.5rem 1.75rem;
+    border-radius:12px;
+    box-shadow:0 0 20px rgba(255,215,160,0.10);
+  ">
+    <p>Kallia is an elven adventurer, centuries old yet bearing the youthful grace and beauty of a woman in her twenties. Unlike most of her kin, she has spent years abroad, wandering far beyond the safety of the Veil.</p>
+    <p>She has long blonde hair braided into two neat plaits, sharp pointed ears, and soft, delicate features that contrast with the green-and-white armor she wears. Her gear is an elegant mix of leather, cloth, and steel, complete with shoulder guards and thigh-high boots built for long journeys.</p>
+    <p>Kallia speaks with clarity and calm conviction, her voice thoughtful but tempered by the steel of long experience in dangerous lands.</p>
+    <p>Unlike most elves, who cannot commit violence, Kallia has honed herself in sword and bow and has adventured among humans for many years. She has learned to navigate a world steeped in conflict without losing her inner balance.</p>
+    <p>Now she enters the Red Tower, seeking the daughter stolen from her by a king maddened by power. She slips into the dungeon to free the imprisoned wanderer and gain an ally in saving both her child and the world.</p>
+  </div>
+
+</div>
