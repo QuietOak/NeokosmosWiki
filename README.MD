@@ -49,12 +49,19 @@ The Neokosmos Wiki is an ongoing worldbuilding project that catalogs:
 - Atmospheric borders, mists, and glows  
 - Clean index pages and organized navigation  
 
-## How to Use the Wiki
-1. Download or clone the repository.  
-2. Open `index.html` in any modern browser.  
-3. Modify content directly inside the TiddlyWiki.  
-4. Save changes normally (TiddlyWiki writes back to the HTML).  
-5. Make a Pull Request to this repo (be sure to include any added files).
+### How to Contribute
+
+Access the wiki using either:
+The hosted version (recommended), or
+A local copy by downloading or cloning the repository and opening index.html in a modern browser.
+
+Make your edits directly inside the TiddlyWiki interface as usual.
+When finished, export only the tiddlers you changed:
+Use TiddlyWiki’s export tools to save the modified tiddlers as files.
+
+Submit your exported tiddlers by either:
+Posting them in the Discord (link below), or
+Uploading them via a GitHub issu
 
 ## License
 This project is licensed under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0**  
