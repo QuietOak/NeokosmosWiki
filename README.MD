@@ -61,7 +61,7 @@ Use TiddlyWiki’s export tools to save the modified tiddlers as files.
 
 Submit your exported tiddlers by either:
 Posting them in the Discord (link below), or
-Uploading them via a GitHub issu
+Uploading them via a GitHub issue.
 
 ## License
 This project is licensed under **Creative Commons Attribution–NonCommercial–ShareAlike 4.0**  
